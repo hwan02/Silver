@@ -1,0 +1,13 @@
+데이터 조작 문서 조작
+
+14 
+	JTextFiled tf = new JTextFiled();
+			---> 데이터 얻을 때  : 변수명=tf.getText();
+			---> 데이터 줄 때     : tf.setText(데이터);
+			
+	자바스크립트)
+	<input type='text' name='tf' value="abc">
+		----> 데이터 얻을 때 :  변수명 = tf.value; 
+												//자바 - 변수명 =tf.getValue();
+		----> 데이터 줄 때    :   				  tf.value = 데이터;
+												//자바 - tf.setValue(데이터); 
