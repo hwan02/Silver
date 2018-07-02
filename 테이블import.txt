@@ -1,0 +1,1 @@
+imp scott/tiger file=c:\ssh\scottTable.dmp  fromuser=scott touser=scott constraints=y commit=y ignore=y tables=dept,emp,salgrade
